@@ -11,4 +11,4 @@ pip install telethon
 
 Now download ```main.py``` and copy it in Termux storage. Then just run program by ```python main.py```.
 
-Also you can archive it by command ```tar czvf tgc.tar.gz main.py *.session```
+Also you can archive it by command ```tar czf tgc.tar.gz main.py *.session```, and unpack by ```tar xf tgc.tar.gz```
