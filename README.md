@@ -1,6 +1,8 @@
-**Telegram Container(TGC)** - is a simple program to store Telegram accounts. This is useful in case when need to hide Telegram accounts: just login into this program, then archive the files and hide it(for example send it to self on mail)
+**Telegram Container(TGC)** - is a simple program to store Telegram accounts.
 
-# Installation(in Termux)
+This is useful in case when need to hide Telegram accounts: just login into this program, then archive the files and hide it(for example send it to self on mail)
+
+# Installation in Termux
 
 To install requirements execute:
 ```
